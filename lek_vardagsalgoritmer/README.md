@@ -2,7 +2,7 @@
 
 ### **Lös vardagsproblem med dina algoritmer!**
 
-I den här här leken får du klura ut lösningen på olika vardagsproblem med hjälp av kodblock. Klipp ut och placera kodblocken i rätt ordning för att bygga din algoritm med koden för lösningen. Det finns tre problem att lösa i stigande svårighetsgrad.123
+I den här här leken får du klura ut lösningen på olika vardagsproblem med hjälp av kodblock. Klipp ut och placera kodblocken i rätt ordning för att bygga din algoritm med koden för lösningen. Det finns tre problem att lösa i stigande svårighetsgrad.
 
 ![Exempel på kodknäckaren](Robot_steker_pannkakor.png)
 
