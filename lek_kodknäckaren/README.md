@@ -20,4 +20,5 @@ Dela in deltagarna i mindre grupper eller låt dem jobba parvis.
 
 1. Dela ut den utskrivna pdf:en med Emojikoden - tre uppgifter. Göm undan den sista sidan som är facit. 
 3. Ge deltagarna ett problem i taget att lösa. Förklara uppgiften och vad de vita och svarta cirklarna betyder. 
-4. När deltagarna tror att de kommit fram till rätt kod – ge dem inte svaret direkt. Gå igenom koden och "testa" den mot de olika svarsalternativen för att se om deras kod fungerar, så att ni tillsammans kommer fram till om det är rätt kod eller om ni behöver hitta en annan lösning tillsammans. 
+4. När deltagarna tror att de kommit fram till rätt kod – ge dem inte svaret direkt. Gå igenom koden och "testa" den mot de olika svarsalternativen för att se om deras kod fungerar, så att ni tillsammans kommer fram till om det är rätt kod eller om ni behöver hitta en annan lösning tillsammans.
+
